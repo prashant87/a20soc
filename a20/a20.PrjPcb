@@ -193,7 +193,7 @@ GenerateClassCluster=0
 DocumentUniqueId=SPJYDHYO
 
 [Document10]
-DocumentPath=PCB1.CSPcbDoc
+DocumentPath=[07]CPU-Periph.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -207,7 +207,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=SBMGPYGW
+DocumentUniqueId=VWSYJJQY
 
 [Configuration1]
 Name=Default Configuration
